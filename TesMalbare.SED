@@ -1,0 +1,55 @@
+[Version]
+Class=IEXPRESS
+SEDVersion=3
+[Options]
+PackagePurpose=ExtractOnly
+ShowInstallProgramWindow=0
+HideExtractAnimation=0
+UseLongFileName=1
+InsideCompressed=0
+CAB_FixedSize=0
+CAB_ResvCodeSigning=0
+RebootMode=I
+InstallPrompt=%InstallPrompt%
+DisplayLicense=%DisplayLicense%
+FinishMessage=%FinishMessage%
+TargetName=%TargetName%
+FriendlyName=%FriendlyName%
+AppLaunched=%AppLaunched%
+PostInstallCmd=%PostInstallCmd%
+AdminQuietInstCmd=%AdminQuietInstCmd%
+UserQuietInstCmd=%UserQuietInstCmd%
+SourceFiles=SourceFiles
+[Strings]
+InstallPrompt=You Sure?(This Is A testrun)
+DisplayLicense=
+FinishMessage=Thanks For Installing!
+TargetName=C:\Users\ZAYNE\Documents\SCOM.1.1.3.iso\TesMalbare.EXE
+FriendlyName=TesMalbare
+AppLaunched=
+PostInstallCmd=
+AdminQuietInstCmd=
+UserQuietInstCmd=
+FILE0="fixup.dat"
+FILE1="fixup_cd.dat"
+FILE2="fixup_db.dat"
+FILE3="fixup_x.dat"
+FILE4="Learning Units .as"
+FILE5="Learning Units .asm"
+FILE6="NBRegNTUser.log"
+FILE7="Pointer.h"
+FILE8="run_NB.log"
+FILE9="Wel+=.asm"
+[SourceFiles]
+SourceFiles0=C:\Users\ZAYNE\Documents\SCOM.1.1.3.iso\
+[SourceFiles0]
+%FILE0%=
+%FILE1%=
+%FILE2%=
+%FILE3%=
+%FILE4%=
+%FILE5%=
+%FILE6%=
+%FILE7%=
+%FILE8%=
+%FILE9%=

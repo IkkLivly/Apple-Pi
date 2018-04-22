@@ -1,0 +1,9 @@
+[log]
+(2016\ 9\21 21:55:10::145)   szCmd=/s
+(2016\ 9\21 21:55:10::145)   strBrand=eMachines
+(2016\ 9\21 21:55:10::145)   strSCRPath=C:\Windows\System32\eMachines.scr
+(2016\ 9\21 21:55:10::145)   CopyFile from=C:\Program Files (x86)\eMachines\Screensaver\eMachines.scr
+(2016\ 9\21 21:55:10::161)   CopyFile to=C:\Users\ZAYNE\AppData\Roaming\Macromedia\Flash Player\macromedia.com\support\flashplayer\sys\#local\settings.sol
+(2016\ 9\21 21:55:10::161)   strBrand=eMachines
+(2016\ 9\21 21:55:10::161)   strSCRPath=C:\Windows\System32\eMachines.scr
+(2016\ 9\21 21:55:10::161)   CopyFile from=C:\Program Files (x86)\eMachines\Screensaver\settings.sol
